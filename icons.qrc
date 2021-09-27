@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pack/light/index.theme</file>
+        <file>pack/dark/index.theme</file>
+        <file>custom-icons/open-app-library.png</file>
+        <file>pack/light/icons/folder.svg</file>
+        <file>pack/light/icons/test.svg</file>
+        <file>pack/dark/icons/folder.svg</file>
+        <file>pack/dark/icons/test.svg</file>
+    </qresource>
+</RCC>
